@@ -46,4 +46,4 @@ Parameters :
 object = {"x": {"y": {"z": "a", "l": "m"}}}
 key = "x/y/p"
 Output:
-value = null
+value = None
